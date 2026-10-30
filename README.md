@@ -1,4 +1,4 @@
-                                               Intercontinental Missile
+                                                Intercontinental Missile
 
 [EN]
 
