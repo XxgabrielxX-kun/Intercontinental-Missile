@@ -1,4 +1,4 @@
-                                                        Intercontinental Missile
+                                        Intercontinental Missile
 
 [EN]
 
@@ -72,7 +72,7 @@ Harmony (required).
 
 ----------------------------------
 
-                                                        Missel Intercontinental
+                                            Missel Intercontinental
 
 
 Lance um míssil balístico do seu silo contra qualquer assentamento inimigo no mapa-múndi. Quando o míssil chega, o mapa do assentamento abre e você escolhe onde ele cai. O assentamento não é deletado: fica em ruínas, e você manda uma caravana para saquear e prender os sobreviventes.
